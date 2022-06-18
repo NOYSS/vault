@@ -1,0 +1,3 @@
+*.exe
+/volumes/file/*
+/volumes/logs/*
