@@ -9,4 +9,4 @@ Stop :
 docker-compose down
 ```
 
-![alt text](../vault/images/vault_1.png)
+![img data](/vault/images/vault_1.png?raw=true "img Data title")
