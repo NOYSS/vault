@@ -9,4 +9,4 @@ Stop :
 docker-compose down
 ```
 
-![alt text](https://github.com/NOYSS/vault/blob/master/vault_1.png?raw=true)
+![alt text](../vault/images/vault_1.png)
